@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 <h3 style="font-size: 24px; font-weight: bold;">I have worked on over <span style="color: #0e75b6; font-size: 26px;">40 private projects</span> for client rights.</h3>
+- 🔭 <h3 style="font-size: 24px; font-weight: bold; color: #ff5733;">+ de 40 projets Sans Prive</h3> for client rights.
   
 - 🔭 I’m currently working on **My self**
 
