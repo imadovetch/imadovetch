@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imad Eddine Bouderoua</h1>
 <h3 align="center">A dedicated and passionate Full Stack Developer based in Morocco</h3>
-- 🔭 <h3 style="font-size: 24px; font-weight: bold; color: #ff5733;">+ de 50 projets Are Private</h3> for client rights.</h3>
+ <h3 style="font-size: 24px; font-weight: bold; color: #ff5733;">- 🔭   + de 50 projets Are Private</h3> for client rights.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadovetch&label=Profile%20views&color=0e75b6&style=flat" alt="imadovetch" /> </p>
 
